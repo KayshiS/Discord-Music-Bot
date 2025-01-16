@@ -15,8 +15,11 @@ When in a voice channel in a server, use the following command set to use the di
 
 
 $play - play audio query
+
 $queue - queue audio
+
 $stop - stop audio
+
 $info - list commands
 
 Note that the play and queue commands should have search terms for the Data API to query. These search terms are analogous to YouTube searches.
